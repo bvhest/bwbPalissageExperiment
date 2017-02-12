@@ -2,7 +2,9 @@
 title: "Palissage experiment - een poging om de groei van okselscheuten te remmen"
 author: "Bart van Hest"
 date: "22 januari 2017"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ## Samenvatting
@@ -200,9 +202,9 @@ Op het moment van oogst op 20 september waren de bladeren in beide rijen gezond 
 Als gevolg van de ongeplande oogst (en door onvoldoende instructie aan mijn mede-plukker), zijn de druiven uit de beide rijen niet gescheiden verwerkt en is alleen het gemiddelde suikergehalte beschikbaar. De iets bovengemiddelde zuurgraad werd veroorzaakt door de 2e trossen aan de scheuten, die, als gevolg van de lange bloeiperiode eerder in het jaar, zo'n twee weken achter liepen op de onderste trossen. De onderste trossen waren goed rijp.
 
 
-variëteit | datum | snoei-type | hoeveelheid | suiker (Oe) | zuurgraad (g/L)
+variëteit | datum | snoei-type | hoeveelheid (kg) | suiker (Oe) | zuurgraad (g/L)
 --------- | ----- | ---------- | ----------- | ----------- | ---------------
-Solaris | 20-9 | gemiddeld | ? | 86 | 8,8
+Solaris | 20-9 | gemiddeld | 18,9 | 86 | 8,8
 
 #### Marechal Foch
 
@@ -210,7 +212,7 @@ De Marechal Foch is geoogst op 11 oktober. Op deze datum, en op het moment van s
 
 Bij de Marechal Foch is het oogstgoed uit de rijen we gescheiden verwerkt. De hoeveelheid druiven uit beide rijen was ongeveer gelijk; 10.6 vs 10.3 Kg voor respectievelijk de getopte en de gewikkelde rijen. Suiker en zuurgraad zijn weergegeven in de onderstaande tabel. Ook hier zijn geen significante verschillen gevonden.
 
-variëteit | datum | snoei-type | hoeveelheid | suiker (Oe) | zuurgraad (g/L)
+variëteit | datum | snoei-type | hoeveelheid (kg) | suiker (Oe) | zuurgraad (g/L)
 --------- | ----- | ---------- | ----------- | ----------- | ---------------
 M.Foch | 11-10 | getopt | 10.6 | 79 | 8,2
 M.Foch | 11-10 | gewikkeld | 10.3 | 82 | 8.2
@@ -223,8 +225,7 @@ Palissage, het door laten groeien van de topscheut door deze te wikkelen rond de
 
 Omdat geen significante verschillen zijn gevonden in de rijpheid van de druiven en de gezondheid van de druivenstokken, de hoeveelhied werk voor beide typen loofwandbeheer gelijk is, palissage meer 'denkwerk' en aandacht vereist en omdat palissage een extra belasting vormt op de ondersteuning van de loofwand, is mijn conclusie dat deze vorm van loofwandbeheer geen voordelen biedt.
 
-Het was leuk om mee te werken aan een dergelijk wijnbouw experiment en een seizoen nog meer dan gebruikelijk de ontwikkeling van de druivenstokken bij te houden. Ik weet daarom zeker dat ik in de toekomst nieuwe experimenten zal uitvoeren.  
-( :) ).
+Het was leuk om mee te werken aan een dergelijk wijnbouw experiment en een seizoen nog meer dan gebruikelijk de ontwikkeling van de druivenstokken bij te houden. Ik weet daarom zeker dat ik in de toekomst nieuwe experimenten zal uitvoeren. :)
 
 
 ## Voorlopige conclusies Cornel University
