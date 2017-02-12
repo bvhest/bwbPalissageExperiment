@@ -1,17 +1,16 @@
 ---
 title: "Palissage - een experiment om de groei van okselscheuten te remmen"
-author: "Bart van Hest"
-date: "12 februari 2017"
+author: "[Bart van Hest (werkgroep Wijnbouw, de Brabantse Wijnbouwers)](udenvh@gmail.com)"
+date: "`r Sys.Date()`"
 output:
   pdf_document:
+    fig_caption: yes
     fig_crop: no
     fig_height: 1.5
     fig_width: 1.75
-  html_document:
-    fig_caption: yes
-    fig_height: 2.5
-    fig_width: 3.5
-css: PalissageExperiment2015.css
+geometry: margin=0.7in
+fontsize: 11pt
+lang: "nl-NL"
 ---
 
 ## Samenvatting
@@ -56,12 +55,12 @@ Het verloop van de beschikbare hoeveelheid vocht en een maat voor de temperatuur
 
 Het neerslagtekort, gemiddeld voor heel Nederland, is te zien als de zwarte lijn in figuur 1. De blauwe lijn toont de mediaan, de groene lijn de 5% droogste jaren en de rode lijn het recordjaar 1976.
 
-![figuur 1. Het neerslagtekort voor 2015, vergeleken met de mediaan en extreme jaren.](../images/fig1_neerslagtekort2015.png){ width=450px }
+![Het neerslagtekort voor 2015, vergeleken met de mediaan en extreme jaren.](../images/fig1_neerslagtekort2015.png){ width=450px }
 
 Figuur 2 toont de [Huglin-index](https://de.wikipedia.org/wiki/Huglin-Index), een maat voor de hoeveelheid groeizame dagen gedurende het groeiseizoen. De Huglin-index wordt verkregen door de gemiddelde dagtemperatuur minus een basis tempteratuur over het groeiseizoen te sommeren. De basis temperatuur komt overeenkomt met de temperatuur waaronder een plant in rust is en niet meer groeit (voor druiven 10 graden Celsius).  
 De figuur toont het langjarige gemiddelde (donker rode lijn) en de waarden voor 2015 (de licht rode lijn). Daarnaast zijn ter referentie de groeistadia voor de Rondo weergegeven en de waarde van de Huglin-index bij de oogst van verschillende bio- en traditionele druivenrassen.
 
-![figuure . De Huglin-index gedurende het groeiseizoen van 2015 (bron: metingen Bart van Hest, klimaat-data van het KNMI)](../images/fig2_HuglinIndex_BBCH_2015.png){ width=450px }
+![De Huglin-index gedurende het groeiseizoen van 2015 (bron: metingen Bart van Hest, klimaat-data van het KNMI)](../images/fig2_HuglinIndex_BBCH_2015.png){ width=600px }
 
 Tot aan de oogstperiode kan het groeiseizoen als een gemiddeld jaar worden gezien. Tegen de oogst werd de temperatuur lager en viel er meer neerslag.
 
