@@ -3,11 +3,15 @@ title: "Palissage - een experiment om de groei van okselscheuten te remmen"
 author: "Bart van Hest"
 date: "12 februari 2017"
 output:
-  html_document: default
   pdf_document:
     fig_crop: no
     fig_height: 1.5
     fig_width: 1.75
+  html_document:
+    fig_caption: yes
+    fig_height: 2.5
+    fig_width: 3.5
+css: PalissageExperiment2015.css
 ---
 
 ## Samenvatting
@@ -52,12 +56,12 @@ Het verloop van de beschikbare hoeveelheid vocht en een maat voor de temperatuur
 
 Het neerslagtekort, gemiddeld voor heel Nederland, is te zien als de zwarte lijn in figuur 1. De blauwe lijn toont de mediaan, de groene lijn de 5% droogste jaren en de rode lijn het recordjaar 1976.
 
-![figuur 1. Het neerslagtekort voor 2015, vergeleken met de mediaan en extreme jaren.](../images/fig1_neerslagtekort2015.png)
+![figuur 1. Het neerslagtekort voor 2015, vergeleken met de mediaan en extreme jaren.](../images/fig1_neerslagtekort2015.png){ width=450px }
 
 Figuur 2 toont de [Huglin-index](https://de.wikipedia.org/wiki/Huglin-Index), een maat voor de hoeveelheid groeizame dagen gedurende het groeiseizoen. De Huglin-index wordt verkregen door de gemiddelde dagtemperatuur minus een basis tempteratuur over het groeiseizoen te sommeren. De basis temperatuur komt overeenkomt met de temperatuur waaronder een plant in rust is en niet meer groeit (voor druiven 10 graden Celsius).  
 De figuur toont het langjarige gemiddelde (donker rode lijn) en de waarden voor 2015 (de licht rode lijn). Daarnaast zijn ter referentie de groeistadia voor de Rondo weergegeven en de waarde van de Huglin-index bij de oogst van verschillende bio- en traditionele druivenrassen.
 
-![figuure . De Huglin-index gedurende het groeiseizoen van 2015 (bron: metingen Bart van Hest, klimaat-data van het KNMI)](../images/fig2_HuglinIndex_BBCH_2015.png)
+![figuure . De Huglin-index gedurende het groeiseizoen van 2015 (bron: metingen Bart van Hest, klimaat-data van het KNMI)](../images/fig2_HuglinIndex_BBCH_2015.png){ width=450px }
 
 Tot aan de oogstperiode kan het groeiseizoen als een gemiddeld jaar worden gezien. Tegen de oogst werd de temperatuur lager en viel er meer neerslag.
 
@@ -67,7 +71,7 @@ Tot aan de oogstperiode kan het groeiseizoen als een gemiddeld jaar worden gezie
 In tabel 1 zijn een aantal van de belangrijke ontwikkelingsstadia van de Marechal Foch en Solaris gedurende het groeiseizoen van 2015 weergegeven.
 
 [BBCH-schaal](https://en.wikipedia.org/wiki/BBCH-scale_(grape)) | Stadium | M.Foch | Solaris
----- | ---- | ---- | ----
+---- | --------------------- | ----------- | -----------
 05 | wol-stadium | 10-4-2015 | 10-4-2015
 09 | knoppen breken | 22-4-2015 | 23-4-2015
 11 | 1e blad | 25-4-2015 | 27-4-2015
@@ -91,7 +95,7 @@ NB door het hangen van de 100-150cm lange topscheuten heb ik hierdoor bij alle s
 Tabel 2 toont de tijd die werd besteed aan het snoeien en wikkelen:
 
 variëteit | methode | tijd/stok (minuten) | 'gemak'
------ | ----- | ----- | -----
+----------- | ----------- | ----------- | -----------
 M.Foch | snoei	 | 1.5 à 2.0 | 	2
 M.Foch | wikkelen | 	2 | 	6
 Solaris | snoei	 | 1 | 	2
@@ -111,18 +115,18 @@ Solaris | wikkelen | 	2.5 | 	6
 De volgende foto's tonen de rijen voorafgaand en na de snoei/wikkel activiteiten.
 
 variëteit | voor | na
------ | ---- | -----
-M.Foch | ![](../images/foto1_MFoch_voor_snoei.png) | ![](../images/foto2_MFoch_na_snoei.png)
-Solaris | ![](../images/foto3_Solaris_voor_snoei.png) | ![](../images/foto4_Solaris_na_snoei.png)
+----- | ------------------------------------- | --------------------------------------
+M.Foch | ![](../images/foto1_MFoch_voor_snoei.png){ width=350px } | ![](../images/foto2_MFoch_na_snoei.png){ width=350px }
+Solaris | ![](../images/foto3_Solaris_voor_snoei.png){ width=350px } | ![](../images/foto4_Solaris_na_snoei.png){ width=350px }
 
-Een close-up van de gewikkelde Marechal Foch:
-![Foto 5. close-up van de gewikkelde Marechal Foch.](../images/foto5_MFoch_close-up.png)
+Een close-up van de gewikkelde Marechal Foch:  
+![Foto 5. close-up van de gewikkelde Marechal Foch.](../images/foto5_MFoch_close-up.png){ width=450px }
 
 De volgende foto's tonen de hoeveelheid snoeiafval uit de gesnoeide en de gewikkelde rijen. Duidelijk is dat de gewikkelde rijen minder snoeiafval gaven. Jammer genoeg is vergeten om het snoeiafval te wegen.
 
 variëteit | snoei | wikkelen
------ | ---- | -----
-M.Foch | ![](../images/foto6_MFoch_snoeiafval.png) | ![](../images/foto7_MFoch_wikkelafval.png)
+----- | ------------------------------------- | --------------------------------------
+M.Foch | ![](../images/foto6_MFoch_snoeiafval.png){ width=350px } | ![](../images/foto7_MFoch_wikkelafval.png){ width=350px }
 
 
 Een tweede snoeironde vond plaat op 11 augustus. De loofwand werd voor het snoeien bekeken en opgemeten:
@@ -156,22 +160,22 @@ Ook het doorbuigen van de topdraad is duidelijk zichtbaar.
 
 
 type | voor | na
------ | ---- | -----
-Topsnoei | ![](../images/foto8_MFoch_voor_snoei_aug.jpg) | ![](../images/foto9_MFoch_na_snoei_aug.jpg)
-Wikkelen | ![](../images/foto10_MFoch_voor_wikkelen_aug.jpg) | ![](../images/foto11_MFoch_na_wikkelen_aug.jpg)
+----- | ------------------------------------- | --------------------------------------
+Topsnoei | ![](../images/foto8_MFoch_voor_snoei_aug.jpg){ width=350px } | ![](../images/foto9_MFoch_na_snoei_aug.jpg){ width=350px }
+Wikkelen | ![](../images/foto10_MFoch_voor_wikkelen_aug.jpg){ width=350px } | ![](../images/foto11_MFoch_na_wikkelen_aug.jpg){ width=350px }
 
 Voorbeelden van okselscheuten uit de getopte en gewikkelde rijen. De lengte van de okselscheuten en de dichtheid van de loofwand is groter in de getopte rijen.
 
 variëteit | snoei | wikkelen
------ | ---- | -----
-M.Foch | ![](../images/foto12_MFoch_zijscheut_snoei_aug.jpg) | ![](../images/foto13_MFoch_zijscheut_wikkelen_aug.jpg)
-Solaris | ![](../images/foto14_Solaris_zijscheut_snoei_aug.jpg) | ![](../images/foto15_Solaris_zijscheut_wikkelen_aug.jpg)
+----- | ------------------------------------- | --------------------------------------
+M.Foch | ![](../images/foto12_MFoch_zijscheut_snoei_aug.jpg){ width=350px } | ![](../images/foto13_MFoch_zijscheut_wikkelen_aug.jpg){ width=350px }
+Solaris | ![](../images/foto14_Solaris_zijscheut_snoei_aug.jpg){ width=350px } | ![](../images/foto15_Solaris_zijscheut_wikkelen_aug.jpg){ width=350px }
 
 De foto's van de getopte en gewikkelde topdraad van de rijen met Solaris tonen een dichtere loofwand in de top van de gewikkelde rijen. De foto's zijn genomen vanaf dezelfde hoogte en onder dezelfde hoek, maar in tegenstelde richting met betrekking tot de positie van de zon, wat resulteerde in afwijkende kleuren. 
 
 variëteit | snoei | wikkelen
------ | ---- | -----
-Solaris | ![](../images/foto16_Solaris_top_snoei_aug.jpg) | ![](../images/foto17_Solaris_top_wikkelen_aug.jpg)
+----- | ------------------------------------- | --------------------------------------
+Solaris | ![](../images/foto16_Solaris_top_snoei_aug.jpg){ width=350px } | ![](../images/foto17_Solaris_top_wikkelen_aug.jpg){ width=350px }
 
 In 2015 begon vanaf half augustus de rijping en nam de groei af.
 
@@ -183,14 +187,14 @@ NB in de meeste jaren moet zowel bij de Marechal Foch als de Solaris minstens tw
 Het volgende spuitschema is in de hele wijngaard, bestaande uit 100 stokken, toegepast:
 
 datum | wat  | hoeveelheid | reden
------ | -------------- | ------ | -------------------------------------------------------------
-10-4 | sulfiet | 5ml/L | preventief tegen Oidium.
-10-4 | Rapsöl | 100ml/L | preventief tegen mijten en om het uitlopen van de knoppen tegen te gaan.
-8-6 | magnesium-fosfiet | 2ml/L | op bladeren, preventief tegen Peronospora en voorkomen van Mg tekort.
-9-6 | sulfiet | 5ml/L | op bladeren, preventief tegen Oidium.
-21-7 | magnesium-fosfiet | 2ml/L | op bladeren, preventief tegen Peronospora (hoge temp. en rel.vochtigheid).
-14-8 | magnesium-fosfiet | 2ml/L | op bladeren, tekenen van Mg tekort.
-14-8 | koper-fosfiet | 1ml/L | op bladeren, preventief tegen Peronospora.
+----- | ------------------ | ------ | -------------------------------------------------------------
+10-4 | sulfiet | 5ml/l | preventief tegen Oidium.
+10-4 | Rapsöl | 100ml/l | preventief tegen mijten en om het uitlopen van de knoppen tegen te gaan.
+8-6 | magnesium-fosfiet | 2ml/l | op bladeren, preventief tegen Peronospora en voorkomen van Mg tekort.
+9-6 | sulfiet | 5ml/l | op bladeren, preventief tegen Oidium.
+21-7 | magnesium-fosfiet | 2ml/l | op bladeren, preventief tegen Peronospora (hoge temp. en rel.vochtigheid).
+14-8 | magnesium-fosfiet | 2ml/l | op bladeren, tekenen van Mg tekort.
+14-8 | koper-fosfiet | 1ml/l | op bladeren, preventief tegen Peronospora.
 
 Er zijn gedurende het groeiseizoen geen ziektes aangetroffen op de Solaris and Marechal Foch. De Golubok en Johanniter vertoonden een lichte aantasting door zwartrot. De Golubok vertoonde daarnaast ook een lichte aantasting door Peronospera op de jonge bladeren.
 
@@ -217,7 +221,7 @@ Op het moment van oogst op 20 september waren de bladeren in beide rijen gezond 
 Als gevolg van de ongeplande oogst (en door onvoldoende instructie aan mijn mede-plukker), zijn de druiven uit de beide rijen niet gescheiden verwerkt en is alleen het gemiddelde suikergehalte beschikbaar. Het iets bovengemiddelde zuurgehalte werd veroorzaakt door de 2e trossen aan de scheuten, die, als gevolg van de lange bloeiperiode eerder in het jaar, zo'n twee weken achter liepen op de onderste trossen. De onderste trossen waren goed rijp.
 
 
-variëteit | datum | snoei-type | hoeveelheid (kg) | suiker (Oe) | zuurgehalte (g/L)
+variëteit | datum | snoei-type | hoeveelheid (kg) | suiker (Oe) | zuurgehalte (g/l)
 --------- | ----- | ---------- | ----------- | ----------- | ---------------
 Solaris | 20-9 | gemiddeld | 18,9 | 86 | 8,8
 
@@ -227,7 +231,7 @@ De Marechal Foch is geoogst op 11 oktober. Op deze datum, en op het moment van s
 
 Bij de Marechal Foch is het oogstgoed uit de rijen wel gescheiden verwerkt. De hoeveelheid druiven uit beide rijen was ongeveer gelijk; 10.6 vs 10.3 kg voor respectievelijk de getopte en de gewikkelde rijen. Suiker en zuurgehalte zijn weergegeven in de onderstaande tabel. Ook hier zijn geen significante verschillen gevonden.
 
-variëteit | datum | snoei-type | hoeveelheid (kg) | suiker (Oe) | zuurgehalte (g/L)
+variëteit | datum | snoei-type | hoeveelheid (kg) | suiker (Oe) | zuurgehalte (g/l)
 --------- | ----- | ---------- | ----------- | ----------- | ---------------
 M.Foch | 11-10 | getopt | 10.6 | 79 | 8,2
 M.Foch | 11-10 | gewikkeld | 10.3 | 82 | 8.2
@@ -254,14 +258,14 @@ De resultaten van de andere 'vrijwilligers' die aan het experiment deelnamen zij
 Onderstaande foto's tonen de twee toegepaste methoden van palissage bij topscheuten die nog minder ver zijn ontwikkeld in vergelijking met mijn experiment. NB op basis van de foto's vermoed ik dat dit minder groeikrachtige druivenrassen zijn dan die van mij.
 
 wikkelen | naar beneden uitbuigen
----- | -----
-![](../images/fig4_cornelUni_palissage.png) | ![](../images/fig5_cornelUni_palissage.png)
+------------------------------------- | --------------------------------------
+![](../images/fig4_cornelUni_palissage.png){ width=350px } | ![](../images/fig5_cornelUni_palissage.png){ width=350px }
 
 In overeenstemming met mijn eigen bevindingen, vinden de onderzoekers van Cornel University ook een reductie in de aantallen en groei van de okselscheuten.
 
 Long Island | King Ferry
----- | -----
-![](../images/fig1_cornelUni_palissage.png) | ![](../images/fig2_cornelUni_palissage.png)
+------------------------------------- | --------------------------------------
+![](../images/fig1_cornelUni_palissage.png){ width=350px } | ![](../images/fig2_cornelUni_palissage.png){ width=350px }
 
 Zij merken op dat de timing van het toepassen van het uitbuigen van de topscheuten van belang is, zonder daarbij expliciet aan te geven wanneer dit moet plaatsvinden.  
 In de King Ferry wijngaard werd waargenomen dat men drie keer door de rijen moest om te toppen ten opzichte van één doorgang om de topscheuten te wikkelen of naar beneden te buigen.  
@@ -269,5 +273,5 @@ Verder merken zij op dat het optreden van schimmelziekten in de loofwand een zor
 
 In het oogstgoed vinden zij hogere waarden wijnsteenzuur en appelzuur in de rijen waar palissage is toegepast. De hoeveelheid suiker is in alle rijen ongeveer gelijk.
 
-![](../images/fig3_cornelUni_palissage.png)
+![](../images/fig3_cornelUni_palissage.png){ width=450px }
 
