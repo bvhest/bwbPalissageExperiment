@@ -1,16 +1,17 @@
 ---
 title: "Palissage - een experiment om de groei van okselscheuten te remmen"
-author: "[Bart van Hest (werkgroep Wijnbouw, de Brabantse Wijnbouwers)](udenvh@gmail.com)"
-date: "`r Sys.Date()`"
+author: '[Bart van Hest (werkgroep Wijnbouw, de Brabantse Wijnbouwers)](udenvh@gmail.com)'
+date: '`r Sys.Date()`'
 output:
   pdf_document:
     fig_caption: yes
     fig_crop: no
     fig_height: 1.5
     fig_width: 1.75
+  html_document: default
+lang: nl-NL
 geometry: margin=0.7in
 fontsize: 11pt
-lang: "nl-NL"
 ---
 
 ## Samenvatting
@@ -32,10 +33,12 @@ Voor wie nieuwsgierig is naar mijn motivatie; lees verder!
 Hieronder volgt een korte beschrijving van de opzet van het palissage experiment in mijn wijngaard "De Achthoeven".
 
 ### Druivenrassen
-De twee druivenrassen, [Marechal Foch](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=37&student=594) en [Solaris](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=133&student=409), werden gekozen op basis van hun sterke groei en nijging om okselscheuten en een dichte loofwand te ontwikkelen. Beide rassen groeien op [SO4 onderstam](http://iv.ucdavis.edu/Viticultural_Information/?uid=177&ds=351).
+De twee druivenrassen, [Marechal Foch](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=37&student=594) en [Solaris](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=133&student=409), werden gekozen op basis van hun sterke groei en nijging om okselscheuten en een dichte loofwand te ontwikkelen. Beide rassen groeien op [SO4 onderstam](http://iv.ucdavis.edu/Viticultural_Information/?uid=177&ds=351). De rijen staan met 1.7-1.8 m eigenlijk te dicht op elkaar. In de rij is de afstand 1.25-1.30m. Er wordt gesnoeid op 16 a 18 trossen per stok, maar dit is bij deze beide rassen in de praktijk altijd lager door misbloei.
 
 ### Bodem-type
 De bodem bestaat uit "[Enkeerdgrond](https://nl.wikipedia.org/wiki/Eerdgronden)" op fijn zand. Enkeerdgronden zijn zandgronden met een ongeveer 40 à 50 cm dikke humushoudende bovengrond die is ontstaan door opmesting met zandrijke potstalmest. De grond is niet erg vruchtbaar, iets zuur met een pH van 6,5 en mineralen spoelen snel uit. De afwatering is goed.
+
+In 2011 is de grond bemest met een circa 5cm dikke laag grove, schimmeldominante compost van Van Iersel Compost. Hierdoor is de groeikracht (te) sterk toegenomen.
 
 ### Palissage type
 De vier rijen, met ieder 10 stokken, staan in noord-zuid richting, met een overheersende windrichting vanuit het zuid-westen. De twee buitenste rijen weren geselecteerd voor de palissage, de binnenste rijen dienden als ‘controle’ en werden op traditionele wijze getopt.
@@ -55,12 +58,12 @@ Het verloop van de beschikbare hoeveelheid vocht en een maat voor de temperatuur
 
 Het neerslagtekort, gemiddeld voor heel Nederland, is te zien als de zwarte lijn in figuur 1. De blauwe lijn toont de mediaan, de groene lijn de 5% droogste jaren en de rode lijn het recordjaar 1976.
 
-![Het neerslagtekort voor 2015, vergeleken met de mediaan en extreme jaren.](../images/fig1_neerslagtekort2015.png){ width=450px }
+![Het neerslagtekort voor 2015, vergeleken met de mediaan en extreme jaren.](../images/fig1_neerslagtekort2015.png){ width=600px }
 
 Figuur 2 toont de [Huglin-index](https://de.wikipedia.org/wiki/Huglin-Index), een maat voor de hoeveelheid groeizame dagen gedurende het groeiseizoen. De Huglin-index wordt verkregen door de gemiddelde dagtemperatuur minus een basis tempteratuur over het groeiseizoen te sommeren. De basis temperatuur komt overeenkomt met de temperatuur waaronder een plant in rust is en niet meer groeit (voor druiven 10 graden Celsius).  
-De figuur toont het langjarige gemiddelde (donker rode lijn) en de waarden voor 2015 (de licht rode lijn). Daarnaast zijn ter referentie de groeistadia voor de Rondo weergegeven en de waarde van de Huglin-index bij de oogst van verschillende bio- en traditionele druivenrassen.
+De figuur toont het langjarige gemiddelde (donker rode lijn) en de waarden voor 2015 (de licht rode lijn). Daarnaast zijn ter referentie de groeistadia voor de Solaris weergegeven en de waarde van de Huglin-index bij de oogst van verschillende bio- en traditionele druivenrassen.
 
-![De Huglin-index gedurende het groeiseizoen van 2015 (bron: metingen Bart van Hest, klimaat-data van het KNMI)](../images/fig2_HuglinIndex_BBCH_2015.png){ width=600px }
+![De Huglin-index gedurende het groeiseizoen van 2015 (bronnen: metingen Bart van Hest, klimaat-data van het KNMI)](../images/fig2_HuglinIndex_BBCH_2015.png){ width=600px }
 
 Tot aan de oogstperiode kan het groeiseizoen als een gemiddeld jaar worden gezien. Tegen de oogst werd de temperatuur lager en viel er meer neerslag.
 
@@ -187,10 +190,10 @@ Het volgende spuitschema is in de hele wijngaard, bestaande uit 100 stokken, toe
 
 datum | wat  | hoeveelheid | reden
 ----- | ------------------ | ------ | -------------------------------------------------------------
-10-4 | sulfiet | 5ml/l | preventief tegen Oidium.
+10-4 | spuitzwavel | 5ml/l | preventief tegen Oidium.
 10-4 | Rapsöl | 100ml/l | preventief tegen mijten en om het uitlopen van de knoppen tegen te gaan.
 8-6 | magnesium-fosfiet | 2ml/l | op bladeren, preventief tegen Peronospora en voorkomen van Mg tekort.
-9-6 | sulfiet | 5ml/l | op bladeren, preventief tegen Oidium.
+9-6 | spuitzwavel | 5ml/l | op bladeren, preventief tegen Oidium.
 21-7 | magnesium-fosfiet | 2ml/l | op bladeren, preventief tegen Peronospora (hoge temp. en rel.vochtigheid).
 14-8 | magnesium-fosfiet | 2ml/l | op bladeren, tekenen van Mg tekort.
 14-8 | koper-fosfiet | 1ml/l | op bladeren, preventief tegen Peronospora.
@@ -235,7 +238,7 @@ variëteit | datum | snoei-type | hoeveelheid (kg) | suiker (Oe) | zuurgehalte (
 M.Foch | 11-10 | getopt | 10.6 | 79 | 8,2
 M.Foch | 11-10 | gewikkeld | 10.3 | 82 | 8.2
 
-Hoewel de Oechsle-graad laag was, zoals bij alle druiven dit jaar, was de fenolische rijpheid van de bessen goed. De schil was zacht en smaakte goed, de pitten waren bruin en gaven bij doorbijten geen wrange, harde taninnes.
+Hoewel de Oechsle-graad laag was, zoals bij alle druiven in mijn wijngaard in 2015, was de fenolische rijpheid van de bessen goed. De schil was zacht en smaakte goed, de pitten waren bruin en gaven bij doorbijten geen wrange, harde taninnes.
 
 
 ## Conclusies
@@ -258,13 +261,13 @@ Onderstaande foto's tonen de twee toegepaste methoden van palissage bij topscheu
 
 wikkelen | naar beneden uitbuigen
 ------------------------------------- | --------------------------------------
-![](../images/fig4_cornelUni_palissage.png){ width=350px } | ![](../images/fig5_cornelUni_palissage.png){ width=350px }
+![](../images/fig21_cornelUni_palissage.png){ width=350px } | ![](../images/fig22_cornelUni_palissage.png){ width=350px }
 
 In overeenstemming met mijn eigen bevindingen, vinden de onderzoekers van Cornel University ook een reductie in de aantallen en groei van de okselscheuten.
 
 Long Island | King Ferry
 ------------------------------------- | --------------------------------------
-![](../images/fig1_cornelUni_palissage.png){ width=350px } | ![](../images/fig2_cornelUni_palissage.png){ width=350px }
+![](../images/fig18_cornelUni_palissage.png){ width=350px } | ![](../images/fig19_cornelUni_palissage.png){ width=350px }
 
 Zij merken op dat de timing van het toepassen van het uitbuigen van de topscheuten van belang is, zonder daarbij expliciet aan te geven wanneer dit moet plaatsvinden.  
 In de King Ferry wijngaard werd waargenomen dat men drie keer door de rijen moest om te toppen ten opzichte van één doorgang om de topscheuten te wikkelen of naar beneden te buigen.  
@@ -272,5 +275,5 @@ Verder merken zij op dat het optreden van schimmelziekten in de loofwand een zor
 
 In het oogstgoed vinden zij hogere waarden wijnsteenzuur en appelzuur in de rijen waar palissage is toegepast. De hoeveelheid suiker is in alle rijen ongeveer gelijk.
 
-![](../images/fig3_cornelUni_palissage.png){ width=450px }
+![](../images/fig20_cornelUni_palissage.png){ width=450px }
 
