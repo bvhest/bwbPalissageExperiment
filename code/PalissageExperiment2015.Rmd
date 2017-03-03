@@ -16,14 +16,14 @@ fontsize: 11pt
 
 ## Samenvatting
 
-Wijnbouwers streven naar een luchtige loofwand om schimmelziekten op het blad te voorkomen en de suikerproductie te optimaliseren (bladeren die in elkaars schaduw hangen verbruiken suikers in plaats van ze te produceren). Sommige druivenrassen, zoals Solaris, Marechal Foch, Golubok en Rondo, hebben de neiging om veel okselscheuten te produceren, waardoor een dichte loofwand ontstaat.  
+Wijnbouwers streven naar een luchtige loofwand om schimmelziekten op het blad te voorkomen en de suikerproductie te optimaliseren (bladeren die in elkaars schaduw hangen verbruiken suikers in plaats van ze te produceren). Sommige druivenrassen, zoals Solaris, Maréchal Foch, Golubok en Rondo, hebben de neiging om veel okselscheuten te produceren, waardoor een dichte loofwand ontstaat.  
 Voor de wijnbouwer betekent het weghalen van okselscheuten extra werk, waar men met name in de commerciele wijnbouw niet op zit te wachten.
 
 Er zijn diverse methoden om de groei van okselscheuten te temperen. Dit artikel beschrijft mijn ervaringen met één methode, de zogenaamde 'palissage', waarbij de topscheuten na het bereiken van de bovenste draad niet worden getopt, maar horizontaal of naar beneden worden omgebogen.  
 De theorie hierachter is dat de druif, die van nature een klimplant is en vanuit de top dóór wil blijven groeien, zijn 'energie' naar zijn top blijft sturen in plaats van zijscheuten te ontwikkelen.
 
 Mijn ervaringen met palissage zijn opgedaan nadat ik een oproep kreeg van Justine Vanden Heuvel, een Associate Professor of Viticulture aan Cornell University (USA), en haar afstudeerder Justin France om mee te doen aan een experiment met Palissage.  
-Mijn conclusies zijn dat de groei van okselscheuten inderdaad kan worden verminderd, maar dat de hoeveelheid werk in de wijngaard niet significant verminderd en zelfs complexer wordt. Doordat er ook nadelen aan deze methode kleven ga ik niet verder met deze methode en zal ik weer op de gebruikelijke wijze meerdere keren in het seizoen de okselscheuten verwijderen.
+Mijn conclusies zijn dat de groei van okselscheuten inderdaad kan worden verminderd, maar dat de hoeveelheid werk in de wijngaard niet significant vermindert en zelfs complexer wordt. Doordat er ook nadelen aan deze methode kleven ga ik niet verder met deze methode en zal ik weer op de gebruikelijke wijze meerdere keren in het seizoen de okselscheuten verwijderen.
 
 Voor wie nieuwsgierig is naar mijn motivatie; lees verder!
 
@@ -33,7 +33,7 @@ Voor wie nieuwsgierig is naar mijn motivatie; lees verder!
 Hieronder volgt een korte beschrijving van de opzet van het palissage experiment in mijn wijngaard "De Achthoeven".
 
 ### Druivenrassen
-De twee druivenrassen, [Marechal Foch](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=37&student=594) en [Solaris](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=133&student=409), werden gekozen op basis van hun sterke groei en nijging om okselscheuten en een dichte loofwand te ontwikkelen. Beide rassen groeien op [SO4 onderstam](http://iv.ucdavis.edu/Viticultural_Information/?uid=177&ds=351). De rijen staan met 1.7-1.8 m eigenlijk te dicht op elkaar. In de rij is de afstand 1.25-1.30m. Er wordt gesnoeid op 16 a 18 trossen per stok, maar dit is bij deze beide rassen in de praktijk altijd lager door misbloei.
+De twee druivenrassen, [Maréchal Foch](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=37&student=594) en [Solaris](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=133&student=409), werden gekozen op basis van hun sterke groei en neiging om okselscheuten en een dichte loofwand te ontwikkelen. Beide rassen groeien op [SO4 onderstam](http://iv.ucdavis.edu/Viticultural_Information/?uid=177&ds=351). De rijen staan met 1.7-1.8 m eigenlijk te dicht op elkaar. In de rij is de afstand 1.25-1.30m. Er wordt gesnoeid op 16 a 18 trossen per stok, maar dit is bij deze beide rassen in de praktijk altijd lager door misbloei.
 
 ### Bodem-type
 De bodem bestaat uit "[Enkeerdgrond](https://nl.wikipedia.org/wiki/Eerdgronden)" op fijn zand. Enkeerdgronden zijn zandgronden met een ongeveer 40 à 50 cm dikke humushoudende bovengrond die is ontstaan door opmesting met zandrijke potstalmest. De grond is niet erg vruchtbaar, iets zuur met een pH van 6,5 en mineralen spoelen snel uit. De afwatering is goed.
@@ -41,9 +41,9 @@ De bodem bestaat uit "[Enkeerdgrond](https://nl.wikipedia.org/wiki/Eerdgronden)"
 In 2011 is de grond bemest met een circa 5cm dikke laag grove, schimmeldominante compost van Van Iersel Compost. Hierdoor is de groeikracht (te) sterk toegenomen.
 
 ### Palissage type
-De vier rijen, met ieder 10 stokken, staan in noord-zuid richting, met een overheersende windrichting vanuit het zuid-westen. De twee buitenste rijen weren geselecteerd voor de palissage, de binnenste rijen dienden als ‘controle’ en werden op traditionele wijze getopt.
+De vier rijen, met ieder 10 stokken, staan in noord-zuid richting, met een overheersende windrichting vanuit het zuid-westen. De twee buitenste rijen werden geselecteerd voor de palissage, de binnenste rijen dienden als ‘controle’ en werden op traditionele wijze getopt.
 
-Het toegepaste type palissage bestond uit het horizontaal wikkelen van de topscheuten rond de top-draad op 2m hoogte ('shoot tuck'). NB een alternatieve methode van palissage is om de topscheuten naar beneden toe uit te buigen ('shoot wrap').
+Het toegepaste type palissage bestond uit het horizontaal wikkelen van de topscheuten rond de top-draad op 2m hoogte ('shoot wrap'). NB een alternatieve methode van palissage is om de topscheuten naar beneden toe uit te buigen ('shoot tuck').
 
 
 ## Groeiseizoen 2015
@@ -60,7 +60,7 @@ Het neerslagtekort, gemiddeld voor heel Nederland, is te zien als de zwarte lijn
 
 ![Het neerslagtekort voor 2015, vergeleken met de mediaan en extreme jaren.](../images/fig1_neerslagtekort2015.png){ width=600px }
 
-Figuur 2 toont de [Huglin-index](https://de.wikipedia.org/wiki/Huglin-Index), een maat voor de hoeveelheid groeizame dagen gedurende het groeiseizoen. De Huglin-index wordt verkregen door de gemiddelde dagtemperatuur minus een basis tempteratuur over het groeiseizoen te sommeren. De basis temperatuur komt overeenkomt met de temperatuur waaronder een plant in rust is en niet meer groeit (voor druiven 10 graden Celsius).  
+Figuur 2 toont de [Huglin-index](https://de.wikipedia.org/wiki/Huglin-Index), een maat voor de hoeveelheid groeizame dagen gedurende het groeiseizoen. De Huglin-index wordt verkregen door de gemiddelde dagtemperatuur minus een basis tempteratuur over het groeiseizoen te sommeren. De basistemperatuur komt overeen met de temperatuur waaronder een plant in rust is en niet meer groeit (voor druiven 10 graden Celsius).  
 De figuur toont het langjarige gemiddelde (donker rode lijn) en de waarden voor 2015 (de licht rode lijn). Daarnaast zijn ter referentie de groeistadia voor de Solaris weergegeven en de waarde van de Huglin-index bij de oogst van verschillende bio- en traditionele druivenrassen.
 
 ![De Huglin-index gedurende het groeiseizoen van 2015 (bronnen: metingen Bart van Hest, klimaat-data van het KNMI)](../images/fig2_HuglinIndex_BBCH_2015.png){ width=600px }
@@ -68,9 +68,9 @@ De figuur toont het langjarige gemiddelde (donker rode lijn) en de waarden voor 
 Tot aan de oogstperiode kan het groeiseizoen als een gemiddeld jaar worden gezien. Tegen de oogst werd de temperatuur lager en viel er meer neerslag.
 
 
-### Ontwikkelingstadia Marechal Foch en Solaris
+### Ontwikkelingstadia Maréchal Foch en Solaris
 
-In tabel 1 zijn een aantal van de belangrijke ontwikkelingsstadia van de Marechal Foch en Solaris gedurende het groeiseizoen van 2015 weergegeven.
+In tabel 1 zijn een aantal van de belangrijke ontwikkelingsstadia van de Maréchal Foch en Solaris gedurende het groeiseizoen van 2015 weergegeven.
 
 [BBCH-schaal](https://en.wikipedia.org/wiki/BBCH-scale_(grape)) | Stadium | M.Foch | Solaris
 ---- | --------------------- | ----------- | -----------
@@ -90,7 +90,7 @@ In tabel 1 zijn een aantal van de belangrijke ontwikkelingsstadia van de Marecha
 
 ### Zomersnoei
 
-De eerste scheuten bereikten de topdraad rond 5 juni. De eerste keer toppen vond plaats op 10 juli, toen de scheuten 100-150cm ‘over’ de topdraad waren gegroeid. De beide binnen-rijen werden met een heggenschaar gesnoeid, de beide buiten-rijen werden met de hand horizontaal uitgebogenm, waarbij de scheuten rond de topdraad werden gewikkeld.
+De eerste scheuten bereikten de topdraad rond 5 juni. De eerste keer toppen vond plaats op 10 juli, toen de scheuten 100-150cm ‘over’ de topdraad waren gegroeid. De beide binnen-rijen werden met een heggenschaar gesnoeid, de beide buiten-rijen werden met de hand horizontaal uitgebogen, waarbij de scheuten rond de topdraad werden gewikkeld.
 
 NB door het hangen van de 100-150cm lange topscheuten heb ik hierdoor bij alle stokken tot 10 juli in feite de 'shoot wrap' methode toegepast.
 
@@ -114,15 +114,15 @@ Solaris | wikkelen | 	2.5 | 	6
   - met wikkelen wordt de top van de loofwand erg dicht omdat 100-150cm lange scheuten allemaal rond de topdraad moesten worden gewikkeld.
   - het aantal en de lengte van de okselscheuten was op dit moment al groot. Daarom was het nodig om aanvullend de okselscheuten in de fruitzone te verwijderen of terug te snoeien op 1 blad.
 
-De volgende foto's tonen de rijen voorafgaand en na de snoei/wikkel activiteiten.
+De volgende foto's tonen de rijen voorafgaand aan en na de snoei/wikkel activiteiten.
 
 variëteit | voor | na
 ----- | ------------------------------------- | --------------------------------------
 M.Foch | ![](../images/foto1_MFoch_voor_snoei.png){ width=350px } | ![](../images/foto2_MFoch_na_snoei.png){ width=350px }
 Solaris | ![](../images/foto3_Solaris_voor_snoei.png){ width=350px } | ![](../images/foto4_Solaris_na_snoei.png){ width=350px }
 
-Een close-up van de gewikkelde Marechal Foch:  
-![Foto 5. close-up van de gewikkelde Marechal Foch.](../images/foto5_MFoch_close-up.png){ width=450px }
+Een close-up van de gewikkelde Maréchal Foch:  
+![Foto 5. close-up van de gewikkelde Maréchal Foch.](../images/foto5_MFoch_close-up.png){ width=450px }
 
 De volgende foto's tonen de hoeveelheid snoeiafval uit de gesnoeide en de gewikkelde rijen. Duidelijk is dat de gewikkelde rijen minder snoeiafval gaven. Jammer genoeg is vergeten om het snoeiafval te wegen.
 
@@ -133,7 +133,7 @@ M.Foch | ![](../images/foto6_MFoch_snoeiafval.png){ width=350px } | ![](../image
 
 Een tweede snoeironde vond plaat op 11 augustus. De loofwand werd voor het snoeien bekeken en opgemeten:
 
-*Marechal Foch:*
+*Maréchal Foch:*
 
 methode	| observaties
 ------- | -----------------------------------------------------------------------------------------------------
@@ -150,14 +150,14 @@ wikkelen | Erg dichte loofwand rond de bovenste draad. Het vertikale deel is iet
 *Opmerkingen en observaties:*
 
   - waar de M. Foch de neiging heeft om zijscheuten te vormen, daar blijven bij de Solaris de primaire scheuten meer doorgroeien. Dit resulteert in zeer lange topscheuten die naar beneden vallen, waardoor een combinatie ontstaat van wikkelen en naar beneden buigen (het alternatieve type palissage). 
-  - door de toegenomen neerslag was het noodzakelijk om de loofwand openen te maken door 
+  - door de toegenomen neerslag was het noodzakelijk om de loofwand open te maken door 
     * de naar beneden groeiende/hangende topscheuten te snoeien.
     * daarnaast zijn alle topscheuten en vertikaal groeiende okselscheuten uit de topscheuten, kortom alle rijen, met de heggenschaar getopt.
     * de okselscheuten in het vertikale deel van de loofwand werden verwijderd of terug gesnoeid op 1 blad.
   - de topdraad heeft bij palissage een erg groote last te dragen. Mijn topdraad van 3mm, zoals al mijn draden, rekte hierdoor uit.
-  - de tijd benodigd voor snoeien en wikkelen was ongeveer gelijk, o.a. omdat dit keer zowel de top van de rij als de okselscheuten in de rij moesten worden gesnoeid in alle rijen. Waar in de getopte rijen iets meer okselscheuten moesten worden verwijderd, moest in de gewikkelde rijen meer tijd worden besteed om de top van de loofwand uit te dunnen.
+  - de tijd benodigd voor snoeien en wikkelen was ongeveer gelijk, o.a. doordat dit keer zowel de top van de rij als de okselscheuten in de rij moesten worden gesnoeid in alle rijen. Waar in de getopte rijen iets meer okselscheuten moesten worden verwijderd, moest in de gewikkelde rijen meer tijd worden besteed om de top van de loofwand uit te dunnen.
   
-De volgende foto's tonen de Marechal Foch voor en na de snoei/wikkel activiteiten. De foto's zijn dicht op de rijen genomen om een beeld te geven van de breedte van de loofwand. Deze is de laatste maand flink toegenomen door de groei van de oudste bladeren en de okselscheuten.  
+De volgende foto's tonen de Maréchal Foch voor en na de snoei/wikkel activiteiten. De foto's zijn dicht op de rijen genomen om een beeld te geven van de breedte van de loofwand. Deze is de laatste maand flink toegenomen door de groei van de oudste bladeren en de okselscheuten.  
 Ook het doorbuigen van de topdraad is duidelijk zichtbaar.
 
 
@@ -181,7 +181,7 @@ Solaris | ![](../images/foto16_Solaris_top_snoei_aug.jpg){ width=350px } | ![](.
 
 In 2015 begon vanaf half augustus de rijping en nam de groei af.
 
-NB in de meeste jaren moet zowel bij de Marechal Foch als de Solaris minstens twee, maar meestal drie keer worden getopt en okselscheuten worden verwijderd. Tijdens dit experiment werd het toppen iets uitgesteld in de verwachting dat een groter verschil zou worden gevonden tussen de getopte en gewikkelde rijen.
+NB in de meeste jaren moet zowel bij de Maréchal Foch als de Solaris minstens twee, maar meestal drie keer worden getopt en even vaak moeten er okselscheuten worden verwijderd. Tijdens dit experiment werd het toppen iets uitgesteld in de verwachting dat een groter verschil zou worden gevonden tussen de getopte en gewikkelde rijen.
 
 
 ### Spuitschema
@@ -198,7 +198,7 @@ datum | wat  | hoeveelheid | reden
 14-8 | magnesium-fosfiet | 2ml/l | op bladeren, tekenen van Mg tekort.
 14-8 | koper-fosfiet | 1ml/l | op bladeren, preventief tegen Peronospora.
 
-Er zijn gedurende het groeiseizoen geen ziektes aangetroffen op de Solaris and Marechal Foch. De Golubok en Johanniter vertoonden een lichte aantasting door zwartrot. De Golubok vertoonde daarnaast ook een lichte aantasting door Peronospera op de jonge bladeren.
+Er zijn gedurende het groeiseizoen geen ziektes aangetroffen op de Solaris and Maréchal Foch. De Golubok en Johanniter vertoonden een lichte aantasting door zwartrot. De Golubok vertoonde daarnaast ook een lichte aantasting door Peronospera op de jonge bladeren.
 
 
 ## Resultaten
@@ -209,16 +209,16 @@ Er wordt onderscheid gemaakt tussen de uitkomsten in de wijngaard en in de wijnk
 
 De belangrijkste observaties zijn;
 
-  - het toepassen van palissage resulteerde bij beide druivenrassen Solaris en Marechal Foch tot een afname van de groei van okselscheuten. Het effect is groter bij de Marechal Foch.
+  - het toepassen van palissage resulteerde bij beide druivenrassen Solaris en Maréchal Foch in een afname van de groei van okselscheuten. Het effect is groter bij de Maréchal Foch.
   - hoewel geen ziektes werden aangetroffen gedurende de periode van het experiment, baart de dichte loofwand als gevolg van het wikkelen zorgen. De verwachting is dat in ongunstige jaren palissage de kans op ziekte vergroot. 
   - het gewicht van de gewikkelde topscheuten veroorzaakt uitrekken van de topdraad. Wanneer men palissage wil toepassen zal een sterkere topdraad moeten worden aangebracht.
-  - Er is geen significant verschil gevonden in de tijd die nodig is voor topsnoei en palissage. Dit komt voornamelijk door de extra tijd en aandacht die nodig is om de top van de loofwand bij palissage in toom te houden.
+  - Er is geen significant verschil gevonden in de tijd die nodig is voor topsnoei en die voor palissage. Dit komt voornamelijk door de extra tijd en aandacht die nodig is om de top van de loofwand bij palissage in toom te houden.
   - het toepassen van palissage vereist meer denkwerk en aandacht.
 
 ### Oogst
 
 #### Solaris
-Op het moment van oogst op 20 september waren de bladeren in beide rijen gezond en zonder een spoor van Oidium of Peronospera. Desondanks was de oogst een week eerder dan geplanned omdat de Solaris last kreeg van Botrytis in de trossen. Deze werd veroorzaakt door toenemende vraat door de vele wespen, het gevolg van een milde winter. Het risico op trosbotrytis werd verder vergroot door een voorspelde regenachtige periode van 6 à 7 dagen met temperaturen rond 18-20 graden Celcius. Op basis van deze twee factoren werd besloten om direct te oogsten.
+Op het moment van oogst op 20 september waren de bladeren in beide rijen gezond en zonder een spoor van Oidium of Peronospera. Desondanks was de oogst een week eerder dan gepland omdat de Solaris last kreeg van Botrytis in de trossen. Dit werd veroorzaakt door toenemende vraat door de vele wespen, het gevolg van een milde winter. Het risico op trosbotrytis werd verder vergroot door een voorspelde regenachtige periode van 6 à 7 dagen met temperaturen rond 18-20 graden Celcius. Op basis van deze twee factoren werd besloten om direct te oogsten.
 
 Als gevolg van de ongeplande oogst (en door onvoldoende instructie aan mijn mede-plukker), zijn de druiven uit de beide rijen niet gescheiden verwerkt en is alleen het gemiddelde suikergehalte beschikbaar. Het iets bovengemiddelde zuurgehalte werd veroorzaakt door de 2e trossen aan de scheuten, die, als gevolg van de lange bloeiperiode eerder in het jaar, zo'n twee weken achter liepen op de onderste trossen. De onderste trossen waren goed rijp.
 
@@ -227,11 +227,11 @@ variëteit | datum | snoei-type | hoeveelheid (kg) | suiker (Oe) | zuurgehalte (
 --------- | ----- | ---------- | ----------- | ----------- | ---------------
 Solaris | 20-9 | gemiddeld | 18,9 | 86 | 8,8
 
-#### Marechal Foch
+#### Maréchal Foch
 
-De Marechal Foch is geoogst op 11 oktober. Op deze datum, en op het moment van schrijven van dit rapport twee weken later, waren de bladeren in beide rijen nog volledig gezond, zelfs in de top van de loofwand waar deze behoorlijk dicht was. Gebaseerd op de hoeveelheid regen die in de afgelopen twee maanden is gevallen kwam dit als een positieve verassing. Mogelijk is het optreden van schimmelziekten beperkt door de relatief lage temperaturen.
+De Maréchal Foch is geoogst op 11 oktober. Op deze datum, en op het moment van schrijven van dit rapport twee weken later, waren de bladeren in beide rijen nog volledig gezond, zelfs in de top van de loofwand waar deze behoorlijk dicht was. Gebaseerd op de hoeveelheid regen die in de afgelopen twee maanden is gevallen kwam dit als een positieve verrassing. Mogelijk is het optreden van schimmelziekten beperkt door de relatief lage temperaturen.
 
-Bij de Marechal Foch is het oogstgoed uit de rijen wel gescheiden verwerkt. De hoeveelheid druiven uit beide rijen was ongeveer gelijk; 10.6 vs 10.3 kg voor respectievelijk de getopte en de gewikkelde rijen. Suiker en zuurgehalte zijn weergegeven in de onderstaande tabel. Ook hier zijn geen significante verschillen gevonden.
+Bij de Maréchal Foch is het oogstgoed uit de rijen wel gescheiden verwerkt. De hoeveelheid druiven uit beide rijen was ongeveer gelijk; 10.6 vs 10.3 kg voor respectievelijk de getopte en de gewikkelde rijen. Suiker en zuurgehalte zijn weergegeven in de onderstaande tabel. Ook hier zijn geen significante verschillen gevonden.
 
 variëteit | datum | snoei-type | hoeveelheid (kg) | suiker (Oe) | zuurgehalte (g/l)
 --------- | ----- | ---------- | ----------- | ----------- | ---------------
@@ -243,14 +243,14 @@ Hoewel de Oechsle-graad laag was, zoals bij alle druiven in mijn wijngaard in 20
 
 ## Conclusies
 
-Palissage, het door laten groeien van de topscheut door deze te wikkelen rond de topdraad, verminderd de groei van okselscheuten en houdt daardoor het vertikale deel van de loofwand meer open.
+Palissage, het door laten groeien van de topscheut door deze te wikkelen rond de topdraad, vermindert de groei van okselscheuten en houdt daardoor het vertikale deel van de loofwand meer open.
 
-Omdat geen significante verschillen zijn gevonden in de rijpheid van de druiven en de gezondheid van de druivenstokken, de hoeveelhied werk voor beide typen loofwandbeheer gelijk is, palissage meer 'denkwerk' en aandacht vereist en omdat palissage een extra belasting vormt op de ondersteuning van de loofwand, is mijn conclusie dat deze vorm van loofwandbeheer geen voordelen biedt.
+Omdat er geen significante verschillen zijn gevonden in de rijpheid van de druiven en de gezondheid van de druivenstokken, de hoeveelhied werk voor beide typen loofwandbeheer gelijk is, palissage meer 'denkwerk' en aandacht vereist en omdat palissage een extra belasting vormt op de ondersteuning van de loofwand, is mijn conclusie dat deze vorm van loofwandbeheer geen voordelen biedt.
 
 Een terzijde: het was leuk om mee te werken aan een dergelijk wijnbouw experiment en een seizoen lang nog meer dan gebruikelijk de ontwikkeling van de druivenstokken bij te houden. 
 
 
-## Voorlopige conclusies Cornel University
+## Voorlopige conclusies Cornell University
 
 Van de experimenten door Cornel University heb ik alleen enkele voorlopige conclusies ontvangen.
 
@@ -259,7 +259,7 @@ De resultaten van de andere 'vrijwilligers' die aan het experiment deelnamen zij
 
 Onderstaande foto's tonen de twee toegepaste methoden van palissage bij topscheuten die nog minder ver zijn ontwikkeld in vergelijking met mijn experiment. NB op basis van de foto's vermoed ik dat dit minder groeikrachtige druivenrassen zijn dan die van mij.
 
-wikkelen | naar beneden uitbuigen
+wikkelen ('shoot wrap') | naar beneden uitbuigen ('shoot tuck')
 ------------------------------------- | --------------------------------------
 ![](../images/fig21_cornelUni_palissage.png){ width=350px } | ![](../images/fig22_cornelUni_palissage.png){ width=350px }
 
