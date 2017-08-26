@@ -1,0 +1,196 @@
+---
+title: "Palissage experiment"
+author: "Bart van Hest, 'De Achthoeven' vineyard (The Netherlands)"
+date: "August 20, 2015"
+output:
+  html_document:
+    keep_md: yes
+    theme: cosmo
+  pdf_document: default
+  word_document: default
+---
+
+# Summary
+
+Justine Vanden Heuvel, Associate Professor of Viticulture, called for vineyards to participate in a project on palissage. She asked growers to experiment with this method and share their observations with her and her graduate student Justin France.  
+This report describes the experimental setup and results with one of the two types of palissage, wrapping the shoots around the top wire.  
+
+At 'De Achthoeven' vineyard two grape varieties were choosen, Marechal Foch and Solaris, based on their vigorous growth and tendency to form lateral shoots.  
+Both grape varieties showed a reduction in growth of lateral shoots in the vertical part of the canopy when palissage was applied. The effect is larger with the Marechal Foch.  
+Although no diseases were found (up to the time of writing this report) the dense canopy with palissage is a concern.  
+The additional weight causes stretching of the top wire. When palissage is choosen, the supporting trellis system needs to be strenghtened.
+No reduction in the time required for attending the vines was observed.
+
+# Experiment
+
+
+## Experimental setup
+
+
+### Grape varieties
+Two grape varieties, [Marechal Foch](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=37&student=594) and [Solaris](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=133&student=409), were chosen for the experiment because of their vigorous growth and strong tendency to grow axillary shoots and form a dense foliage. Both grapes grow on [SO4 rootstock](http://iv.ucdavis.edu/Viticultural_Information/?uid=177&ds=351).
+
+
+### Palissage type
+The four rows, with each 10 grapes, are planted in North-South direction, with prevailing winds from the South-west. The two outer rows were chosen for palissage, the two inner rows for the 'control' (traditionally pruned) vines.  
+
+The type of palissage is with the shoot tips wrapped horizontally along the top wire at 2m.
+
+
+### Soil type
+
+Soil type is a so-called ["Enkeerdgrond"](https://nl.wikipedia.org/wiki/Eerdgronden) (approx. 40-50 cm humus-rich brown-colored layer of soil on sharp sand. These soils are the result of fertilization of poor earth with manure and sod during ages of human occupation.).
+This soil-type is not very fertile, a bit acidic (pH approx 6) and minerals are washed out easily. The drainage is very good.
+
+
+### Local climate
+
+The growing season started half of April, a bit ahead of the long-time average, after a long, but mild winter. The months of May and June were a bit cooler than average, but with a lot of sun and little rain. July was hotter than average and again dry. The first serious rain (30mm in one day) came at the end of July and in the second half of August. A major part of the 2015 growing season in The Netherlands was amongst the 5% driest years since measurements began in 1705.
+
+![Rainfall Deficit / Drought (source: KNMI)](http://www.knmi.nl/klimatologie/geografische_overzichten/actueel/rdev/rdev_tijdreeks_verwachting.png)
+
+The following plot shows the [Huglin-index](https://de.wikipedia.org/wiki/Huglin-Index), a measure for the temperature during the growing season. The Huglin-index is similar, but not identical, to the [Growing Degree Days](http://wine.wsu.edu/research-extension/weather/growing-degree-days) measure. The plot shows the long time average (dark red line), the current values (light red) and the best fit through the current values (dark red dotted line). The best fit is a couple of days later than the long time average.  
+The plot also shows the Huglin-index at harvest for some hybrid and common grape varieties.
+
+![Huglin-index during the growing season 2015 (source: BvH, data: KNMI)](images/HuglinIndex_BBCH_ggplot2.png)
+
+The "Huglin" plot above shows the different growth phases for the [Rondo](http://www.brabantsewijnbouwers.nl/index.php?section=13&page=37&student=829) grape, which is an "early" variety like the Solaris and Marechal Foch varieties (the data are based on private measurements between 2009-2014). These varieties all have approximately equal bud-break. The Solaris ripens about two weeks earlier, the Marechal Foch ripens about one or two weeks later than the Rondo.
+
+[BBCH-scale](https://en.wikipedia.org/wiki/BBCH-scale_(grape)) | Dutch | English | M.Foch | Solaris
+--- | --- | --- | --- | ---
+05 | wol-stadium | wool stage | 10-4 | 10-4
+09 | knoppen breken | bud break | 22-4 | 23-4
+11 | 1e blad | first leave | 25-4 | 27-4
+13 | 3e blad | third leave | 1-5 | 5-5
+15 | 5e blad | fifth leave | 11-5 | 13-5
+61 | 10% bloei | 10% flowering | 6-6 | 10-6
+68 | 80% bloei| 80% flowering | 14-6 | 19-6
+73 | korrelgrootte | groat-sized berries | 24-6 | 30-6
+83 | verkleuring | 'veraison' | 10-8 | 30-7  
+89 | oogst | harvest | ? | ?
+
+
+## Vineyard activities
+
+
+### Pruning
+
+The first shoots reached the top wire around June 5th. The **first hedging** took place on July 10th. At that time, the shoots were 100-150cm 'above' the top wire.  
+Both the 'inner' rows were hedged manually with a hedge trimmer. Both the 'outer' rows were wrapped manually.
+
+The following table shows the time spent on hedging and wrapping:
+
+variety | method | time/vine (minutes) | ease
+--- | --- | --- | ---
+M.Foch | hedging | 1.5 a 2.0 | 2
+M.Foch | wrapping | 2 | 5
+Solaris | hedging | 1 | 2
+Solaris | wrapping | 2.5 | 5
+
+with the ease of applying the method described on a scale 1 to 10, where 1 is technically easy and quick, where 5 took some technical learning and time, and where 10 is difficult and time consuming.
+
+*Notes:*  
+
+  1) the time spent on hedging included disposal of the removed shoots.  
+  2) with hedging, my only concern is to minimise damage to the top leaves and to keep the distance to the top wire about equal.
+  2) wrapping required more 'thought' and attention, although its not the first time I used this method (which was in 2014, after a suggestion in a tweet by Justine Vanden Heuvel). The attention is needed to prevent the shoots from breaking and to wrap all the shoots in the same direction (to prevent a build-up of shoots in certain parts of the caopy).  
+  The direction of wrapping was towards the North, based on the idea that pointing the top away from the light would slow down growth.   
+  3) with wrapping, the top of the canopy becomes quite dense. The reason is because 100-150 cm long shoots had to be wrapped around the top wire.  
+  4) the number and size of laterals was already high. All laterals in the fruit zone (lowest 45cm) were either removed or cut back to one leave.  
+
+The following photo's show the rows before and after the pruning activities.
+
+variety | before | after
+--- | --- | ---
+M.Foch | <img src="images/juli17/MFoch_before2.png" alt="MFoch before" style="width: 400px;"/> | <img src="images/juli17/MFoch_after.png" alt="MFoch after" style="width: 400px;"/>
+Solaris | <img src="images/juli17/Solaris_before2.png" alt="Solaris before" style="width: 400px;"/> | <img src="images/juli17/Solaris_after.png" alt="Solaris after" style="width: 400px;"/>
+
+The following photo shows a close-up of the wrapped Marechal Foch.  
+<img src="images/juli17/palissage.png" alt="M. Foch after applying palissage" style="width: 400px;"/>
+
+The following photo's show the amount removed shoots for both hedging and palissage (unfortunately, these have not been weighted).
+
+variety | hedging | palissage
+--- | --- | ---
+M.Foch | <img src="images/juli17/MFoch_hedging_disposal.png" alt="MFoch before" style="width: 400px;"/> | <img src="images/juli17/MFoch_wrapping_disposal.png" alt="MFoch after" style="width: 400px;"/>
+
+
+A **second round of hedging** took place on August 11th. Before hedging, the following observations were made:  
+
+*Marechal Foch:*  
+
+type | description
+--- | ---
+hedging | longer laterals, with length up to 70-100cm, present.  Stil, the canopy in general is more open. No diseases present.
+wrapping | shorter laterals, with length up to 25-30cm, present in vertical part of the canopy. Many and long laterals present in wrapped shoots. Very dense canopy around the top wire. No diseases present.
+
+*Solaris:*  
+
+type | description
+--- | ---
+hedging | less new top-laterals than with the M.Foch, a bit more laterals than with wrapping, but less obvious differences than with the M.Foch. Relatively open canopy. No diseases present.
+wrapping | Very dense canopy around the top wire. The canopy is slightly more open than with the hedged vines, but the difference is nullified by top shoots that that have sagged. The result is a very dense canopy, also in the vertical part. No diseases present.
+
+*Notes:*  
+
+  1) Where M. Foch tends to form laterals, the Solaris tends to continue growing the primary shoot, resulting in very long shoots that fall downward. This results in a combination of 'wrapping' and 'circling'.  
+  2) to reduce the risk of fungal diseases, a hedging of all the rows in this experiment was needed.  
+  3) with wrapping, the top wire has to carry a really heavy load. When pallisage is choosen, it's recommended to either double the top wire, or select a wire with a diameter of minimally 5mm. My top wire is, like all my wires, 3 mm and got stretched.  
+  
+All vertical top shoots, laterals in both 'wrapped' and 'hedged' rows, were shortened manually with the hedge trimmer. Laterals in the vertical part of the canopy were either removed or shortened to one or two leaves.  
+Wrapped shoots that had become to long and circled downward were shortened, both to open up the canopy and to relieve the top wire from a too heavy load.  
+The time required to prune the hedged and palissage rows was about equal. In both cases both the top-laterals and the laterals in the vertical part of the canopy needed trimming. Where with the hedged rows there were slightly more laterals in the vertical part, the palissage rows needed more time to clear the laterals from the wrapped shoots and to shorten these.
+
+
+The following photo's show the rows of Marechal Foch before and after the pruning activities. The photographs are taken close to the rows to give an impression of the width of the row. Over the last month the rows have become wider due to growth of the older leaves and the growth of laterals. It can be seen that both the top laterals and side laterals have been removed. It can also be seen that the top line on the right has dropped a bit in the middle.
+
+variety | before | after
+--- | --- | ---
+hedged | <img src="images/aug10/MF_hedged_width_before.jpg" alt="MFoch before" style="width: 400px;"/> | <img src="images/aug10/MF_hedged_width_after.jpg" alt="MFoch after" style="width: 400px;"/>
+wrapped | <img src="images/aug10/MF_wrapped_width_before.jpg" alt="Solaris before" style="width: 400px;"/> | <img src="images/aug10/MF_wrapped_width_after.jpg" alt="Solaris after" style="width: 400px;"/>
+
+The following photo's show examples of laterals for the hedged and wrapped vines. Both photo's have been taken from the same height and at the same angle, but in opposite directions. The top of the wrapped vines is denser.
+
+variety | hedged | wrapped
+--- | --- | ---
+M.Foch | <img src="images/aug10/MF_long_lateral.jpg" alt="MFoch hedged" style="width: 400px;"/> | <img src="images/aug10/MF_short_lateral.jpg" alt="MFoch wrapped" style="width: 400px;"/>
+Solaris | <img src="images/aug10/Solaris_long_lateral.jpg" alt="Solaris hedged" style="width: 400px;"/> | <img src="images/aug10/Solaris_short_lateral.jpg" alt="Solaris wrapped" style="width: 400px;"/>
+
+
+The following photo show examples of the top of the canopy for the hedged and wrapped vines of the Solaris.
+
+variety | hedged top | wrapped top
+--- | --- | ---
+Solaris | <img src="images/aug10/Solaris_hedged_top.jpg" alt="Solaris hedged top" style="width: 400px;"/> | <img src="images/aug10/Solaris_wrapped_top.jpg" alt="Solaris wrapped top" style="width: 400px;"/>
+
+
+In most years, both Marechal Foch and Solaris need two or three rounds of hedging and trimming of laterals. This year, I let the shoots grow a bit more before hedging in the hope to find more distinct differences between hedging and palissage.  
+It's expected that from now one the growth of the vines has more or less ended and the energy is put into ripening the berries.
+
+
+### Spray schedule
+
+The following spray schedule was applied to the entire vineyard (100 grapes):
+
+date | what | amount | reason
+--- | --- | --- | ---
+10-4 | sulphur | 5ml/L |  preventive against Oidium
+10-4 | Rapsöl | 100ml/L | preventive against mites and to delay bud-break
+8-6 |  [Magnesium-phosphite](http://www.brabantsewijnbouwers.nl/starnet/media/downloads/Hulpstoffen_Gewasbescherming_2015/magnesiumfosfiet_produktinformation_de.pdf) | 2ml/L | applied on leaves, preventive against Peronospora and Mg difficit 
+9-6 | sulphur | 5ml/L | applied on leaves, preventive against Oidium
+21-7 | [Scala](https://www.bayercropscience.us/products/fungicides/scala) | 2ml/L | preventive against botrytis in bunches (applied at BBCH 77 - bunch closure) 
+21-7 | Magnesium-phosphite | 2ml/L | applied on leaves, preventive against Peronospora (high temp. and humidity)
+14-8 | Magnesium-phosphite | 2ml/L | applied on leaves, signs of Mg difficit 
+14-8 | [Copper-phosphite](http://www.brabantsewijnbouwers.nl/starnet/media/downloads/Hulpstoffen_Gewasbescherming_2015/koperfosfiet_productsheet_nl.pdf) | 1ml/L | applied on leaves, preventive against Peronospora
+
+No diseases were found on the grape varieties Solaris and Marechal Foch. The same schedule was applied on the other grapes in the same vineyard. The Golubok and Johanniter showed a very mild infection with black rot. The Golubok also showed some Peronospera in the young leaves.
+
+
+### Continuation of the experiment
+
+In the coming two months I will measure the ripening of the berries separately for the hedged and palissage rows in order to determine if there is any impact on the ripening. I will also keep checking for any difference in disease incidence.
+
+
+# Results
+
+_Final results will be included after harvest_
